@@ -29,7 +29,7 @@
 
 ## Kontribusi
 
-Dibuat oleh [Nama Anda].
+Dibuat oleh Faathir Akbar Nugroho.
 
 ## Lisensi
 
