@@ -26,10 +26,7 @@ Routing dalam aplikasi ini dilakukan menggunakan URL yang mengarahkan ke control
 
 ## Menggunakan Cookies dan Sessions
 
-Dalam aplikasi ini, kita menggunakan **sessions** untuk menyimpan status login pengguna. Saat pengguna berhasil login, username disimpan dalam session:
-
-```php
-$_SESSION['user'] = $username;
+Dalam aplikasi ini, kita menggunakan **sessions** untuk menyimpan status login pengguna. Saat pengguna berhasil login, username disimpan dalam session
 
 ### AKHIR LAPORAN
 
