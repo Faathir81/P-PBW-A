@@ -34,19 +34,19 @@ Dalam aplikasi ini, kita menggunakan **sessions** untuk menyimpan status login p
 
 ### Halaman Home
 
-![Halaman Home](screenshots/home.png)
+![Halaman Home](mvc/screenshots/home.png)
 
 ### Form Login
 
-![Form Login](screenshots/login.png)
+![Form Login](mvc/screenshots/login.png)
 
 ### Halaman Admin
 
-![Halaman Admin](screenshots/admin.png)
+![Halaman Admin](mvc/screenshots/admin.png)
 
 ### Tambah Barang
 
-![Tambah Barang](screenshots/add.png)
+![Tambah Barang](mvc/screenshots/add.png)
 
 ### Edit Barang
 
