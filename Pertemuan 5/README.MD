@@ -50,7 +50,7 @@ Dalam aplikasi ini, kita menggunakan **sessions** untuk menyimpan status login p
 
 ### Edit Barang
 
-![Edit Barang](screenshots/edit.png)
+![Edit Barang](mvc/screenshots/edit.png)
 
 ## Kontribusi
 
