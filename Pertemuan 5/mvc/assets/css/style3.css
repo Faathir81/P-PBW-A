@@ -1,0 +1,55 @@
+/* Reset beberapa style default */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #007bff; /* Warna latar belakang halaman */
+}
+
+.container {
+    max-width: 400px; /* Lebar maksimal form */
+    margin: 100px auto; /* Mengatur margin agar berada di tengah */
+    padding: 20px; /* Ruang dalam */
+    background-color: #fff; /* Warna latar belakang form */
+    border-radius: 8px; /* Sudut melengkung */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Bayangan untuk efek kedalaman */
+}
+
+h2 {
+    text-align: center; /* Teks judul berada di tengah */
+    color: #333; /* Warna teks judul */
+}
+
+form {
+    display: flex; /* Menggunakan flexbox untuk tata letak */
+    flex-direction: column; /* Mengatur arah kolom */
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 10px; /* Ruang dalam untuk input */
+    margin: 10px 0; /* Margin atas dan bawah untuk jarak antar input */
+    border: 1px solid #ccc; /* Batas abu-abu */
+    border-radius: 4px; /* Sudut melengkung */
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: #007bff; /* Ubah warna batas saat fokus */
+    outline: none; /* Menghilangkan outline default */
+}
+
+button {
+    padding: 10px; /* Ruang dalam untuk tombol */
+    background-color: #007bff; /* Warna latar belakang tombol */
+    color: #fff; /* Warna teks tombol */
+    border: none; /* Menghilangkan batas */
+    border-radius: 4px; /* Sudut melengkung */
+    cursor: pointer; /* Mengubah kursor saat hover */
+    font-size: 16px; /* Ukuran font */
+}
+
+button:hover {
+    background-color: #0056b3; /* Warna latar belakang saat hover */
+}
+
