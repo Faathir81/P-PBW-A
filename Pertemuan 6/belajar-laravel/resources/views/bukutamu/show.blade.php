@@ -17,7 +17,6 @@
             </div>
         @endforeach
     @endif
-
     <br>
     <a href="{{ route('home') }}">Kembali ke Halaman Utama</a>
 </body>
